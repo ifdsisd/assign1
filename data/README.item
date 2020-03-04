@@ -1,0 +1,8 @@
+item files are to contain exactly three lines
+
+name of item file  contains 4 digit unique identifier followed by the .item extension
+
+
+item_name (string with no whitespaces) simple_name (string)- name of item
+unit_price (floating point number) cur_qty(unsigned int) max_qty (unsigned int)- price of item
+item_desc (string)- description of item
